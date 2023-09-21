@@ -1,0 +1,6 @@
+MANIFEST       このファイル
+README         まず最初にお読み下さい
+NOTICE         版権と許諾についての告示書
+CHANGES        commのモデルチェンジの履歴
+comm.1         commのマニュアル
+comm.x         comm実行ファイル
